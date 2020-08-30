@@ -27,7 +27,7 @@ const GlobalStyle = createGlobalStyle`
   }
   main {
     min-height: 400px;
-    padding-bottom: 20px;
+    
   }
 `
 const Layout = ({ children }) => {
