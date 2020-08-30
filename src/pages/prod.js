@@ -68,29 +68,29 @@ const Products = () => {
                 <Form.Label>City</Form.Label>
                 <Form.Control type="Text" placeholder="Enter Your Full Name" />
               </Form.Group>
-              <Form.Group controlId="formBasicEmail">
+              <Form.Group controlId="medsOrder">
                 <Form.Label>Country</Form.Label>
                 <Form.Control type="Text" placeholder="Enter Your Country" />
               </Form.Group>
-              <Form.Group controlId="formBasicEmail">
+              <Form.Group controlId="medsOrder">
                 <Form.Label>Medicine</Form.Label>
                 <Form.Control
                   type="Text"
                   placeholder="Enter the meds you need"
                 />
               </Form.Group>
-              <Form.Group controlId="formBasicEmail">
+              <Form.Group controlId="medsOrder">
                 <Form.Label>Serial Number (If applicable)</Form.Label>
                 <Form.Control type="Text" placeholder="Enter Serial Number" />
               </Form.Group>
-              <Form.Group controlId="formBasicEmail">
+              <Form.Group controlId="medsOrder">
                 <Form.Label>Manufacturer Name</Form.Label>
                 <Form.Control
                   type="Text"
                   placeholder="Enter the manufacturer"
                 />
               </Form.Group>
-              <Form.Group controlId="formBasicEmail">
+              <Form.Group controlId="medsOrder">
                 <Form.Label>
                   Quantity: (Limited to 5 per order | 3 for class-H drugs)
                 </Form.Label>
