@@ -42,9 +42,6 @@ const Header = () => (
           <Nav.Link>
             <Link to="/contact">Contact</Link>
           </Nav.Link>
-          <Nav.Link>
-            <Link to="/prod">Products</Link>
-          </Nav.Link>
         </Nav>
         <Nav className="ml-auto mr-3">
           <Link to="/portal">Register/Login</Link>
